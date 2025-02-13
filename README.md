@@ -3,15 +3,25 @@ SC RENAME TERBARU SUPPORT TERMUX BY グシェン
 KODE INSTALASI DI TERMINAL TERMUX 
 
 pkg update && pkg upgrade
+
 pkg install git
+
 pkg install ffmpeg
+
 pkg install imagemagick
+
 pkg install nodejs
+
 pkg install yarn
+
 git clone https://github.com/GxyennID/Gxyenn.git
+
 termux-setup-storage
-cd /sdcard/bot
+
+cd /sdcard/グシェン
+
 yarn
+
 node start.js
 
 JIKALAU SUDAH JNGAN LUPA SUBS CHANEL SAYA DAN JOIN CH DAN JANGAN LUPA JUGA DONASI🌻😎
