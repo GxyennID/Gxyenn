@@ -24,11 +24,18 @@ yarn
 
 node start.js
 
+
 JIKALAU SUDAH JNGAN LUPA SUBS CHANEL SAYA DAN JOIN CH DAN JANGAN LUPA JUGA DONASI🌻😎
 
+
+
 LINK YT https://www.youtube.com/@%E3%82%B0%E3%82%B7%E3%82%A7%E3%83%B3
+
 LINK CH https://whatsapp.com/channel/0029Vap5nJh2UPBDIc9bja1s
+
 LINK DONASI Https://saweria.com/GxyennID
+
+
 
 MOHON BANTUANNYA 
 TERIMAKASIH!.
